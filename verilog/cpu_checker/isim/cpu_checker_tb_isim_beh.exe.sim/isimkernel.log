@@ -1,0 +1,23 @@
+Command line:
+   cpu_checker_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  38991
+
+Wed Sep  6 15:49:49 2023
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 183.898 Meg
+
+ Total Signals          : 19
+ Total Nets             : 27
+ Total Signal Drivers   : 11
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 16
+ Total Traceable Variables  : 28
+ Total Scalar Nets and Variables : 135
+In process cpu_checker.vCont_35_2 
+ FATAL ERROR:ISim: This application has discovered an exceptional condition from which it cannot recover. Process will terminate. To search for possible resolutions to this issue, refer to the Xilinx answer database by going to http://www.xilinx.com/support/answers/index.htm and search with keywords 'ISim' and 'FATAL ERROR'. For technical support on this issue, please open a WebCase with this project attached at http://www.xilinx.com/support.

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="572" delta="new" >"/home/co-eda/Desktop/homework/P/p7/cpu_v2/Exccoder.v" Line 23: Macro &lt;<arg fmt="%s" index="1">LUI</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="new" >"/home/co-eda/Desktop/homework/P/p7/cpu_v2/controller.v" Line 59: Macro &lt;<arg fmt="%s" index="1">BEQ_CMP</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="new" >"/home/co-eda/Desktop/homework/P/p7/cpu_v2/controller.v" Line 60: Macro &lt;<arg fmt="%s" index="1">BNE_CMP</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="new" >"/home/co-eda/Desktop/homework/P/p7/cpu_v2/controller.v" Line 99: Macro &lt;<arg fmt="%s" index="1">BYTE_1</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="new" >"/home/co-eda/Desktop/homework/P/p7/cpu_v2/controller.v" Line 100: Macro &lt;<arg fmt="%s" index="1">BYTE_2</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="new" >"/home/co-eda/Desktop/homework/P/p7/cpu_v2/controller.v" Line 101: Macro &lt;<arg fmt="%s" index="1">BYTE_3</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="new" >"/home/co-eda/Desktop/homework/P/p7/cpu_v2/controller.v" Line 102: Macro &lt;<arg fmt="%s" index="1">BYTE_4</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="new" >"/home/co-eda/Desktop/homework/P/p7/cpu_v2/controller.v" Line 103: Macro &lt;<arg fmt="%s" index="1">HALF_1</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="new" >"/home/co-eda/Desktop/homework/P/p7/cpu_v2/controller.v" Line 104: Macro &lt;<arg fmt="%s" index="1">HALF_2</arg>&gt; is redefined.
+</msg>
+
+</messages>
+

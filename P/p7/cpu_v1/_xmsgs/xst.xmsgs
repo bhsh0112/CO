@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="572" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/Exccoder.v" Line 23: Macro &lt;<arg fmt="%s" index="1">LUI</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/controller.v" Line 59: Macro &lt;<arg fmt="%s" index="1">BEQ_CMP</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/controller.v" Line 60: Macro &lt;<arg fmt="%s" index="1">BNE_CMP</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/controller.v" Line 99: Macro &lt;<arg fmt="%s" index="1">BYTE_1</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/controller.v" Line 100: Macro &lt;<arg fmt="%s" index="1">BYTE_2</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/controller.v" Line 101: Macro &lt;<arg fmt="%s" index="1">BYTE_3</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/controller.v" Line 102: Macro &lt;<arg fmt="%s" index="1">BYTE_4</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/controller.v" Line 103: Macro &lt;<arg fmt="%s" index="1">HALF_1</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/controller.v" Line 104: Macro &lt;<arg fmt="%s" index="1">HALF_2</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="572" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/Bridge.v" Line 22: Macro &lt;<arg fmt="%s" index="1">IM</arg>&gt; is redefined.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 122: Port <arg fmt="%s" index="1">equal</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 161: Port <arg fmt="%s" index="1">equal</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 262: Port <arg fmt="%s" index="1">M_adress</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 346: Port <arg fmt="%s" index="1">rs</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 429: Port <arg fmt="%s" index="1">equal</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/controller.v" Line 192: Assignment to <arg fmt="%s" index="1">syscall</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/Exccoder.v" Line 123: Assignment to <arg fmt="%s" index="1">AdEL</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 352: Assignment to <arg fmt="%s" index="1">M_DM_WE</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CP0.v" Line 71: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1511" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CP0.v" Line 47: Mix of blocking and non-blocking assignments to variable &lt;<arg fmt="%s" index="1">CP</arg>&gt; is not a recommended coding practice.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CP0.v" Line 31: Empty module &lt;<arg fmt="%s" index="1">CP0</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 423: Assignment to <arg fmt="%s" index="1">W_rst</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 426: Assignment to <arg fmt="%s" index="1">W_equal</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 57: Net &lt;<arg fmt="%s" index="1">E_is_jal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 61: Net &lt;<arg fmt="%s" index="1">M_is_jal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="636" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 400: Net &lt;<arg fmt="%s" index="1">W_rt[4]</arg>&gt; is already driven by input port &lt;<arg fmt="%s" index="2">instruction[20]</arg>&gt;.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 67: Net &lt;<arg fmt="%s" index="1">W_is_jal</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="552" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 122: Input port <arg fmt="%s" index="1">equal</arg> is not connected on this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="552" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 161: Input port <arg fmt="%s" index="1">equal</arg> is not connected on this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="552" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 262: Input port <arg fmt="%s" index="1">M_adress[31]</arg> is not connected on this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="552" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 429: Input port <arg fmt="%s" index="1">equal</arg> is not connected on this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/CPU.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">CPU</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/Bridge.v" Line 61: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"/home/co-eda/Desktop/homework/P/p7/cpu_v1/Bridge.v" Line 62: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+</messages>
+

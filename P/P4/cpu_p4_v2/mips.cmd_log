@@ -1,0 +1,7 @@
+vhdtdtfi -lib work /home/co-eda/Desktop/homework/P/P4/cpu_p4/mips.v -lang verilog -prj cpu_p4 -o mips.spl -module mips -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 mips.spl /home/co-eda/Desktop/homework/P/P4/cpu_p4/mips.sym 
+vhdtdtfi -lang verilog -prj cpu_p4 -o /home/co-eda/Desktop/homework/P/P4/cpu_p4/mips.tfi -lib work /home/co-eda/Desktop/homework/P/P4/cpu_p4//mips.v -module mips -template /opt/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+xst -intstyle ise -ifn "/home/co-eda/Desktop/homework/P/P4/cpu_p4/mips.xst" -ofn "/home/co-eda/Desktop/homework/P/P4/cpu_p4/mips.syr" 
+xst -intstyle ise -ifn "/home/co-eda/Desktop/homework/P/P4/cpu_p4/mips.xst" -ofn "/home/co-eda/Desktop/homework/P/P4/cpu_p4/mips.syr" 
+vhdtdtfi -lang verilog -prj cpu_p4 -o /home/co-eda/Desktop/homework/P/P4/cpu_p4/mips.tfi -lib work /home/co-eda/Desktop/homework/P/P4/cpu_p4//mips.v -module mips -template /opt/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+xst -intstyle ise -ifn "/home/co-eda/Desktop/homework/P/P4/cpu_p4/mips.xst" -ofn "/home/co-eda/Desktop/homework/P/P4/cpu_p4/mips.syr" 

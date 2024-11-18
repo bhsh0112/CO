@@ -1,0 +1,30 @@
+Command line:
+   MUX_PC_3_1_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52607
+
+Sun Nov 12 20:41:04 2023
+
+
+ Elaboration Time: 0.01 sec
+
+ Current Memory Usage: 183.89 Meg
+
+ Total Signals          : 28
+ Total Nets             : 317
+ Total Signal Drivers   : 12
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 14
+ Total Traceable Variables  : 19
+ Total Scalar Nets and Variables : 429
+In process MUX_PC_3_1.vCont_47_3 
+ FATAL ERROR:ISim: This application has discovered an exceptional condition from which it cannot recover. Process will terminate. To search for possible resolutions to this issue, refer to the Xilinx answer database by going to http://www.xilinx.com/support/answers/index.htm and search with keywords 'ISim' and 'FATAL ERROR'. For technical support on this issue, please open a WebCase with this project attached at http://www.xilinx.com/support.
+
+ Total Simulation Time: 0.02 sec
+
+ Current Memory Usage: 259.391 Meg
+
+Sun Nov 12 20:41:10 2023
+

@@ -1,0 +1,23 @@
+ISim log file
+Running: /home/co-eda/Desktop/homework/P/p6/cpu/mips_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/co-eda/Desktop/homework/P/p6/cpu/mips_tb_isim_beh.wdb 
+INFO: There is another simulation running in the same directory. Using database file name isim1.wdb.
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  65@00003000: $ 1 <= 00000007
+                  75@00003004: $ 2 <= 00000000
+                  85@00003008: $ 3 <= 00000007
+                  95@0000300c: $ 4 <= 00000007
+                 125@00003014: $ 5 <= 00000001
+                 135@0000301c: $ 1 <= 0000000e
+# exit 0

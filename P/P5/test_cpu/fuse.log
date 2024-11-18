@@ -1,0 +1,57 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/co-eda/Desktop/homework/P/P5/test_cpu/mips_tb_isim_beh.exe -prj /home/co-eda/Desktop/homework/P/P5/test_cpu/mips_tb_beh.prj work.mips_tb work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/CONTROLLER.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/stall.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/PC.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/NPC.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/M_W.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/IM.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/GRF.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/F_D.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/E_M.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/EXT.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/D_E.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/DM.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/CMP.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/ALU.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/mips.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P5/test_cpu/mips_tb.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "/home/co-eda/Desktop/homework/P/P5/test_cpu/mips.v" Line 143: Port RegWrite is not connected to this instance
+WARNING:HDLCompiler:1016 - "/home/co-eda/Desktop/homework/P/P5/test_cpu/mips.v" Line 236: Port imm16 is not connected to this instance
+WARNING:HDLCompiler:1016 - "/home/co-eda/Desktop/homework/P/P5/test_cpu/mips.v" Line 262: Port new2_E is not connected to this instance
+WARNING:HDLCompiler:1016 - "/home/co-eda/Desktop/homework/P/P5/test_cpu/mips.v" Line 282: Port rs is not connected to this instance
+WARNING:HDLCompiler:1016 - "/home/co-eda/Desktop/homework/P/P5/test_cpu/mips.v" Line 321: Port rs is not connected to this instance
+WARNING:HDLCompiler:1016 - "/home/co-eda/Desktop/homework/P/P5/test_cpu/stall.v" Line 31: Port imm16 is not connected to this instance
+WARNING:HDLCompiler:1016 - "/home/co-eda/Desktop/homework/P/P5/test_cpu/stall.v" Line 46: Port rs is not connected to this instance
+WARNING:HDLCompiler:1016 - "/home/co-eda/Desktop/homework/P/P5/test_cpu/stall.v" Line 57: Port rs is not connected to this instance
+Completed static elaboration
+Fuse Memory Usage: 82928 KB
+Fuse CPU Usage: 350 ms
+Compiling module CONTROLLER
+Compiling module stall
+Compiling module F_PC
+Compiling module F_IM
+Compiling module F_D
+Compiling module D_GRF
+Compiling module D_EXT
+Compiling module D_CMP
+Compiling module F_NPC
+Compiling module D_E
+Compiling module E_ALU
+Compiling module E_M
+Compiling module M_DM
+Compiling module M_W
+Compiling module mips
+Compiling module mips_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 17 Verilog Units
+Built simulation executable /home/co-eda/Desktop/homework/P/P5/test_cpu/mips_tb_isim_beh.exe
+Fuse Memory Usage: 86592 KB
+Fuse CPU Usage: 380 ms
+GCC CPU Usage: 830 ms

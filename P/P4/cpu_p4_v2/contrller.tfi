@@ -1,0 +1,18 @@
+
+
+
+// Instantiate the module
+contrller instance_name (
+    .special(special), 
+    .brunch(brunch), 
+    .s_Wreg(s_Wreg), 
+    .s_Wdata(s_Wdata), 
+    .EXT_s(EXT_s), 
+    .GRF_WE(GRF_WE), 
+    .DM_WE(DM_WE), 
+    .zero_EXT_s(zero_EXT_s), 
+    .jump(jump), 
+    .ALU_op(ALU_op)
+    );
+
+

@@ -1,0 +1,45 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/mips_tb_isim_beh.exe -prj /home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/mips_tb_beh.prj work.mips_tb work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/PC.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/MUX_Wreg_3_1.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/MUX_Wdata_3_1.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/MUX_PC_3_1.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/MUX_EXT_2_1.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/MUX_data2_2_1.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/IM.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/GRF.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/DM.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/divider.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/contrller.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/ALU.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/mips.v" into library work
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/mips_tb.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 83040 KB
+Fuse CPU Usage: 370 ms
+Compiling module PC
+Compiling module MUX_PC_3_1
+Compiling module IM
+Compiling module divider
+Compiling module MUX_Wreg_3_1
+Compiling module MUX_Wdata_3_1
+Compiling module GRF
+Compiling module MUX_EXT_2_1
+Compiling module MUX_data2_2_1
+Compiling module ALU
+Compiling module DM
+Compiling module contrller
+Compiling module mips
+Compiling module mips_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 15 Verilog Units
+Built simulation executable /home/co-eda/Desktop/homework/P/P4/cpu_p4_v2/mips_tb_isim_beh.exe
+Fuse Memory Usage: 86344 KB
+Fuse CPU Usage: 410 ms
+GCC CPU Usage: 530 ms

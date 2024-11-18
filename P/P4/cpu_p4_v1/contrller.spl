@@ -1,0 +1,16 @@
+[Inputs]
+=special[5:0]=
+[Outputs]
+brunch
+EXT_s
+GRF_WE
+DM_WE
+zero_EXT_s
+jump
+=s_Wreg[1:0]=
+=s_Wdata[1:0]=
+=ALU_op[2:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel contrller
+

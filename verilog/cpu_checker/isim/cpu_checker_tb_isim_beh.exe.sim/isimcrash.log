@@ -1,0 +1,14 @@
+Printing stacktrace...
+
+[0] cpu_checker_tb_isim_beh.exe(+0x38fb) [0x55e6c1d1b8fb]
+[1] /opt/Xilinx/14.7/ISE_DS/ISE/./lib/lin64/libhsimengine.so(HSimKernel::initProcesses(HSimVector<HSimBaseProcess*>*)+0x7a) [0x7fd6ce25c76a]
+[2] /opt/Xilinx/14.7/ISE_DS/ISE/./lib/lin64/libhsimengine.so(HSimKernel::init()+0x14c) [0x7fd6ce25e06c]
+[3] /opt/Xilinx/14.7/ISE_DS/ISE/./lib/lin64/libhsimengine.so(HSimKernel::spsimInternal(long long)+0x2c) [0x7fd6ce25e83c]
+[4] /opt/Xilinx/14.7/ISE_DS/ISE/./lib/lin64/libhsimengine.so(HSimKernel::spsim(long long)+0xcd) [0x7fd6ce25e9fd]
+[5] /opt/Xilinx/14.7/ISE_DS/ISE/./lib/lin64/libhsimengine.so(ISimEngine::SimulationThread::runCommand()+0x9f) [0x7fd6ce2a6bbf]
+[6] /opt/Xilinx/14.7/ISE_DS/ISE/./lib/lin64/libhsimengine.so(ISimEngine::SimulationThread::loop()+0x91) [0x7fd6ce2a7b11]
+[7] /opt/Xilinx/14.7/ISE_DS/ISE/./lib/lin64/libhsimengine.so(HSimSimCtl::runTcl(HSimConfigDecl*, HSimEntyBlk*, int, char**)+0x25c) [0x7fd6ce2a243c]
+[8] cpu_checker_tb_isim_beh.exe(main+0x66) [0x55e6c1d1926b]
+[9] /lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0xea) [0x7fd6cdf49d0a]
+[10] cpu_checker_tb_isim_beh.exe(+0x114a) [0x55e6c1d1914a]
+Done

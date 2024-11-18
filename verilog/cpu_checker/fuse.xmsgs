@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 55: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">2</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 63: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 66: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 77: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 82: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 91: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 94: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 105: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 108: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 112: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 124: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 144: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 157: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 162: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 175: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="568" delta="unknown" >"/home/co-eda/Desktop/homework/verilog/cpu_checker/cpu_checker.v" Line 177: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">1</arg>&gt; bits.
+</msg>
+
+</messages>
+

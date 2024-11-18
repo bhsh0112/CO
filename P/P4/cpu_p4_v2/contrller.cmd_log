@@ -1,0 +1,3 @@
+vhdtdtfi -lib work /home/co-eda/Desktop/homework/P/P4/cpu_p4/contrller.v -lang verilog -prj cpu_p4 -o contrller.spl -module contrller -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 contrller.spl /home/co-eda/Desktop/homework/P/P4/cpu_p4/contrller.sym 
+vhdtdtfi -lang verilog -prj cpu_p4 -o /home/co-eda/Desktop/homework/P/P4/cpu_p4/contrller.tfi -lib work /home/co-eda/Desktop/homework/P/P4/cpu_p4//contrller.v -module contrller -template /opt/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

@@ -1,0 +1,10 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/co-eda/Desktop/homework/P/P1/gray_new/gray_tb_isim_beh.exe -prj /home/co-eda/Desktop/homework/P/P1/gray_new/gray_tb_beh.prj gray_tb work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/co-eda/Desktop/homework/P/P1/gray_new/gray_tb.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+ERROR:HDLCompiler:1654 - "/home/co-eda/Desktop/homework/P/P1/gray_new/gray_tb.v" Line 37: Instantiating <uut> from unknown module <gray>
+ERROR:Simulator:778 - Static elaboration of top level Verilog design unit(s) in library work failed
